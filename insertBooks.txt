@@ -1,0 +1,15 @@
+db.Book.insert({
+    title: 'Refactoring the DOM',
+    author: 'John Blow',
+    categoty: 'Technology'
+});
+db.Book.insert({
+    title: 'Learn Colloquial Speech',
+    author:' Susie Q',
+    category: 'Humanities'
+});
+db.Book.insert({
+    title: 'Study of the Brain',
+    author: 'Matt G',
+    category: 'Health'
+});
